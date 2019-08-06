@@ -8,6 +8,8 @@ namespace ConsoleApp2
         {
             // test comment
             Console.WriteLine("This is Git Test Project");
+
+            var c1 = new Class1();
         }
     }
 }
