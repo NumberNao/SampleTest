@@ -6,6 +6,7 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
+            // test comment
             Console.WriteLine("This is Git Test Project");
         }
     }
